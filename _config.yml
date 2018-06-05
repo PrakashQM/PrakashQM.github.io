@@ -25,10 +25,10 @@ description: Finding new insights with data is super awesome !!
 navbar-links:
   About Me: "aboutme"
   CV: "resume"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+ # Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   # - Learn markdown: "http://www.markdowntutorial.com/"
+   # - GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
   Quantum Chemistry:
     - Publications: "https://scholar.google.com/citations?user=_vuO5BIAAAAJ&hl=en"
@@ -69,21 +69,21 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Prakash Verma
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
+  rss: False
+  email: "vermaQM@gmail.com"
   facebook: daattali
-  github: daattali
-  twitter: daattali
+  github: PrakashQM
+  twitter: QMlab
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: prakashverma
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -98,13 +98,13 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "PrakashQM.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
